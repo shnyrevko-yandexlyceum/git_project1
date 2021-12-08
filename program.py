@@ -1,5 +1,5 @@
 def my_super_function():
-    print('What an awesome print!')
+    print('Hello, python!!!')
 
 
 if __name__ == '__main__':
