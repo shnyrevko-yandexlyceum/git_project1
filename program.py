@@ -1,3 +1,4 @@
+# author: Kirill Shnyrev
 def my_super_function():
     print('What an awesome print!')
 
