@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print('Again')
     print('UFO came and added this line')
     my_super_function()
+    print(1)
